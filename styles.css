@@ -1,0 +1,19 @@
+html {
+    margin: 10;
+    padding: 0;
+}
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: rgb(89, 238, 20);
+}
+p {
+    color: rgb(1, 8, 3);
+}
+.intro {
+    font-weight: bold
+}
+#last {
+    font-style: italic
+}
